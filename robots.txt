@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lingendea-ui.github.io/UwanjaniLeo.Tz/sitemap.xml
